@@ -1,3 +1,6 @@
+#Alterar os diretórios corretamente
+#Alterar o comando triggerMig.sh para o script que dispare a migração no ambiente correspondente
+
 import os
 import subprocess
 import xml.etree.ElementTree as ET
