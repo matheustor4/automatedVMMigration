@@ -1,5 +1,7 @@
 # /bin/bash
 
+#Ajustar caminhos e diretórios
+
 echo "starting monitoring MQTT"
 
 echo "Counter AvgRuntime(sec) MsgTimeMin(ms) MsgTimeMax(ms) MsgTimeMean(ms) MsgTimeStd(ms) AvgBandwidth(msg/sec) TimeStamp" >> mosquittoLoadResults.txt
